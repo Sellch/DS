@@ -34,7 +34,7 @@ __*В нашем распоряжении данные сервиса Яндек
 
 
 ## Используемые библиотеки
-*pandas*
+*Pandas*, *Matplotlib*, *Seaborn*
 
 ## Итоги исследования
 <div style="border:solid orange 2px; padding: 5px">
