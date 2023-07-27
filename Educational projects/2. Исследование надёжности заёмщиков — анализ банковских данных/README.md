@@ -25,6 +25,7 @@ __*Для исследования получен csv-файл `data.csv`*__
 *Pandas*
 
 ---
+## Итоги исследования
 
 <div style="border:solid orange 2px; padding: 5px">
 
