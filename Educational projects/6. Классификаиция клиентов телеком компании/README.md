@@ -13,11 +13,10 @@ __*Для исследования получен csv-файл `users_behavior.c
 
 ## Задача
 
-Выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
-
+Построить модель для задачи классификации, которая выберет подходящий тариф.
 
 ## Используемые библиотеки
-*Pandas*, *Plotly.Express*, *NumPy*, *SciPy*, *matplotlib.pyplot*, *Math*
+*Pandas*, *NumPy*, *matplotlib.pyplot*, *Seaborn*, *Scikit-Learn*
 
 ---
 <div style="border:solid orange 2px; padding: 5px">
