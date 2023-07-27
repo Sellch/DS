@@ -18,7 +18,7 @@ __*Для исследования получен csv-файл `users_behavior.c
 ## Используемые библиотеки
 *Pandas*, *NumPy*, *matplotlib.pyplot*, *Seaborn*, *Scikit-Learn*
 
----
+## Итоги исследования
 <div style="border:solid orange 2px; padding: 5px">
 
 <div class="alert alert-info"> <b>При проведении исследования (на основе полученных данных) выполнено:</b></div>

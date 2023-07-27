@@ -24,7 +24,7 @@ __*Для исследования получен csv-файл `games.csv`*__
 ## Используемые библиотеки
 *Pandas*, *Plotly.Express*, *NumPy*, *SciPy*, *matplotlib.pyplot*, *Math*
 
----
+## Итоги исследования
 <div style="border:solid orange 2px; padding: 5px">
 
 <div class="alert alert-info"> <b>При проведении исследования (на основе полученных данных) выполнено:</b></div>

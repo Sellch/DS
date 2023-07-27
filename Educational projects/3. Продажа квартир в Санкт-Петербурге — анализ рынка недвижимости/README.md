@@ -36,7 +36,7 @@ __*В нашем распоряжении данные сервиса Яндек
 ## Используемые библиотеки
 *Pandas*, *Matplotlib*, *Seaborn*
 
----
+## Итоги исследования
 <div style="border:solid orange 2px; padding: 5px">
 
 <div class="alert alert-info"> <b>При проведении исследования (на основе полученных данных) выполнено:</b></div>
